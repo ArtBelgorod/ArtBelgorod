@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArtBelgorod
-- 👀 I’m interested in Programming, football, MMA
+- 👀 I’m interested in Programming, football, MMA, Run
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
